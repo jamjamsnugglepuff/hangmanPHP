@@ -1,0 +1,9 @@
+{
+  "player":{"name":"max"},
+  "tip":["_","_","_"],
+  "guesses":null,
+  "lives":null,
+  "wordIdx":4755,
+  "randomWord":"bed",
+  "running":true
+  }
